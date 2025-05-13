@@ -1,5 +1,5 @@
-id = "codestackr-zed"
-name = "codeSTACKr Zed"
+id = "codestackr-zed-theme"
+name = "codeSTACKr Zed theme"
 version = "0.0.1"
 schema_version = 1
 authors = ["Pjort Kat"]
