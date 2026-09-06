@@ -1,6 +1,6 @@
 id = "codestackr"
 name = "codeSTACKr theme"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["Pjort Kat"]
 description = "A port of the popular codeSTACKr VS Code theme for Zed Editor"
